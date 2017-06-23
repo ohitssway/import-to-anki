@@ -2,7 +2,7 @@
 
 ## Usage
 
-```shell
+```zsh
 saimunshahee:~/import-to-anki (master) $ ./dist/quinterest -c Mythology -d HS -f mythhs.txt
 saimunshahee:~/import-to-anki (master) $ ./dist/quinterest -h
 usage: quinterest [-h] -c CATEGORY -d DIFFICULTY -f FILE
